@@ -14,7 +14,7 @@ An intelligent chatbot designed to help aspiring students get accurate and fast 
 - Jupyter Notebook
 
 ## 📄 Project Overview
-See the full project presentation here: [MIT_CHATBOT.pdf](MIT_CHATBOT.pdf)
+See the full project presentation here: [MITBOT.pdf](MITBOT.pdf)
 
 ## ⚠️ Note
 Due to privacy and academic constraints, the full model code and training data are not shared publicly.
